@@ -1,3 +1,3 @@
 # Working-with-Python_Modules
 
-I will be adding some notebooks to this repository, with the simple aim to explore some basic functions with the Python modules I have recently come to work with a lot. These notebooks have been made with comments as well, to give some clueless readers an idea about the working of these modules and their functions. 
+This repository contains notebooks for Python modules that I have often encountered and used. The objective of this repository is to have a place to store any essential functionalities of these modules in one place. So, if anyone wants to get a gist of all the most used functions in these modules, they can use these notebooks for reference. I will include comments in some notebooks as well to make things clearer. However, as that may not be possible in every case, I recommend referring to the documentation of these modules to get a complete picture of their use and functionalities.
