@@ -7,3 +7,5 @@ This repository contains notebooks for Python modules that I have often encounte
 [Documentation of the Scikit-Image Module](https://scikit-image.org/docs/stable/)
 
 [Documentation of the Matplotlib Module](https://matplotlib.org/stable/index.html)
+
+[Documentation of the JSON module](https://docs.python.org/3/library/json.html)
